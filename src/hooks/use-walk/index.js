@@ -4,7 +4,6 @@ export default function UseWalk(maxSteps) {
 
     const [dir, setDir] = useState(0)
     const [step, setStep] = useState(0)
-    const [canMove, setCanMove] = useState(true)
     const [position, setPosition] = useState({
         x: 0,
         y: 0
