@@ -4,7 +4,7 @@ Learning custom hook react and using them in making a charactor move.
 
 ### How to move
 
-You can use keybord arroe keys to move the player.
+You can use keybord arrow keys to move the player.
 
   <img src="public/Screenshot.png"/>
 
