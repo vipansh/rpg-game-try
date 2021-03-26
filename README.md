@@ -11,6 +11,6 @@ You can use keybord arrow keys to move the player.
 
 ### Custom hooks
 
-Custom hook is made to get rhe key press by the name usekeypress.
-and also yo walk by the name useWalk.
+Custom hook is made to get the key press by the name usekeypress.
+and also to walk by the name useWalk.
 
